@@ -1,0 +1,4 @@
+node-web-server/node_modules
+node-web-server/.tmp
+node-web-server/.vscode
+node-web-server/server.log
